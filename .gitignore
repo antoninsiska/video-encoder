@@ -203,5 +203,8 @@ pip-selfcheck.json
 # Ignore all local history of files
 .history
 .ionide
-
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
 # End of https://www.toptal.com/developers/gitignore/api/python,visualstudiocode,venv
