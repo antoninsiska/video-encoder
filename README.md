@@ -14,3 +14,10 @@ This project functions as a video encoder specifically designed to convert black
 
 ## Contributing
 Contribute to the project by creating a pull request or opening an issue with suggestions for enhancements.
+
+## Branches 
+1. **main:** branch for final versions of project
+2. **develop:** branch fro developing final versions
+
+## Vesrsions
+**There are curretnly no versions**
