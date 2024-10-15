@@ -1,4 +1,4 @@
-# video-encoder
+# Project: Video Encoder for Black-and-White Images
 
 This project functions as a video encoder specifically designed to convert black-and-white images into video format and vice versa. By translating each pixel's color into binary code—where black is represented as 1 and white as 0—it enables the efficient encoding of visual information into videos. The process also allows for the decoding of videos back into their original black-and-white images.
 
@@ -15,4 +15,9 @@ This project functions as a video encoder specifically designed to convert black
 ## Contributing
 Contribute to the project by creating a pull request or opening an issue with suggestions for enhancements.
 
+## Branches 
+1. **main:** branch for final versions of project
+2. **develop:** branch fro developing final versions
 
+## Vesrsions
+**There are curretnly no versions**
