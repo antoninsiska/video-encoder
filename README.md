@@ -20,4 +20,6 @@ Contribute to the project by creating a pull request or opening an issue with su
 2. **develop:** branch fro developing final versions
 
 ## Vesrsions
-**There are curretnly no versions**
+- 1.0 
+  - First attempt to generate video and form vido back to image
+  - It is not fully working
